@@ -1,0 +1,19 @@
+{
+  "name": "self-drive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ci": "git add . && git commit -m 'commit' && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fairy-yx/self-drive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fairy-yx/self-drive/issues"
+  },
+  "homepage": "https://github.com/fairy-yx/self-drive#readme"
+}
